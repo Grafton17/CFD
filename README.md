@@ -3,7 +3,7 @@ This is where I put all things that I learn on CFD.
 
 # Acknowledgements
 
-Most of the code is based upon the great lectures given by Prof. Lorena Barba of the Boston University, which can be found here: https://piazza.com/bu/spring2013/me702/info ([@cite https://doi.org/10.21105/jose.00021]).
+Most of the code is based upon the great lectures given by Prof. Lorena Barba of the Boston University, which can be found here: https://piazza.com/bu/spring2013/me702/info ([@ https://doi.org/10.21105/jose.00021]).
 
 I also need to mention the awesome reworking of the above cited course by Prof. Zhengtao Gan of Arizona University (see here: https://drzgan.github.io/Python_CFD/intro.html).
 
