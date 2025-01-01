@@ -3,6 +3,18 @@ This is where I put all things that I learn on CFD.
 
 The purpose of this repository is to keep track of what I learn and of tips and tricks about doing simulations with Python. It is $\textbf{NOT}$ absolutely intended to replicate a fully exhaustive universitary course about CFD. As already mentioned in my Grafton17/Grafton17's README.md document, my goal is to simulate plasma physics phenomena and I am going to be meticulous when it is time. For now, this repository is just a logbook of my CFD's notebooks with which I learn how to use GitHub.
 
+# Summary
+
+- Step 1: 1D-linear convection equation
+- Step 2: Nonlinear convection and 'upwind scheme'
+- Step 3: Convergence and the CFL condition
+- Step 4: Diffusion equation in 1-D + animation
+- Step 5: Burgers' equation in 1-D
+- Step 6: Array Operations with NumPy
+- Step 7: 2-D Linear Convection
+- Step 8: 2-D Convection
+- Step 9: 2-D diffusion + animation
+
 # Acknowledgements
 
 Most of the code is based upon the great lectures given by Prof. Lorena Barba of the George Washington University, which can be found here: https://piazza.com/bu/spring2013/me702/info (also watch this https://doi.org/10.21105/jose.00021).
