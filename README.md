@@ -13,7 +13,7 @@ The purpose of this repository is to keep track of what I learn and of tips and 
 - Step 6: Array Operations with NumPy
 - Step 7: 2-D Linear Convection
 - Step 8: 2-D Convection
-- Step 9: 2-D diffusion + animation [here](Step_9.ipynb)
+- Step 9: [2-D diffusion + animation](Step_9.ipynb)
 
 # Acknowledgements
 
