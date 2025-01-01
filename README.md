@@ -10,9 +10,9 @@ The purpose of this repository is to keep track of what I learn and of tips and 
 - Step 3: Convergence and the CFL condition
 - Step 4: Diffusion equation in 1-D + animation
 - Step 5: Burgers' equation in 1-D
-- Step 6: Array Operations with NumPy
-- Step 7: 2-D Linear Convection
-- Step 8: 2-D Convection
+- Step 6: [Speeding up simulations](2D_equations/Step_6.ipynb)
+- Step 7: [2-D Linear Advection](2D_equations/Step_7.ipynb)
+- Step 8: [2-D Advection](2D_equations/Step_8.ipynb)
 - Step 9: [2-D diffusion + animation](2D_equations/Step_9.ipynb)
 
 # Acknowledgements
