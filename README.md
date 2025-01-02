@@ -25,4 +25,4 @@ I'm very grateful to them and to their online notes, videos and notebooks on CFD
 
 I also need to thank the vast and rich internet world. I used a lot of web's stuff as a support for my learning, and if someone is not okay with the hyperlinks that I put all over my notebooks, just email me and I'll remove them!
 
-Fly safe!
+Keep on learning!
