@@ -1,7 +1,9 @@
 # CFD
 This is where I put all things that I learn on CFD.
 
-The purpose of this repository is to keep track of what I learn and of tips and tricks about doing simulations with Python. It is __NOT__ absolutely intended to replicate a fully exhaustive universitary course about CFD. As already mentioned in my Grafton17/Grafton17's README.md document, my goal is to simulate plasma physics phenomena and I am going to be meticulous when it is time. For now, this repository is just a logbook of my CFD's notebooks with which I also learn how to use GitHub, so clearly they're more than just a copy of the courses given by Prof. Barba and Prof. Gan.
+The purpose of this repository is to keep track of what I learn and of tips and tricks about doing simulations with Python. It is __NOT__ absolutely intended to replicate a fully exhaustive universitary course about CFD. 
+
+As already mentioned in my [README.md document](https://github.com/Grafton17), my goal is to simulate plasma physics phenomena and I am going to be meticulous when it is time. For now, this repository is just a logbook of my CFD's notebooks with which I also learn how to use GitHub, so clearly they're more than just a copy of the courses given by Prof. Barba and Prof. Gan.
 
 # Summary
 
