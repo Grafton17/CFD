@@ -14,6 +14,9 @@ The purpose of this repository is to keep track of what I learn and of tips and 
 - Step 7: [2-D Linear Advection](2D_equations/Step_7.ipynb)
 - Step 8: [2-D Advection](2D_equations/Step_8.ipynb)
 - Step 9: [2-D diffusion + animation](2D_equations/Step_9.ipynb)
+- Step 10: [2-D Burgers' equatoin](2D_equations/Step_10.ipynb)
+- Step 11: [2-D Laplace equation + relaxation method](2D_equations/Step_11.ipynb)
+- Step 12: [2-D Poisson equation](2D_equations/Step_12.ipynb)
 
 # Acknowledgements
 
