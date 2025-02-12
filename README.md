@@ -14,7 +14,7 @@ As already mentioned in my [README.md document](https://github.com/Grafton17), m
 - Step 4: Diffusion equation in 1-D + animation
 - Step 5: Burgers' equation in 1-D
 
-2-D equations + intermediate tips:
+2-D equations + intermediate tips (some cool plots are already here):
 - Step 6: [Speeding up simulations](2D_equations/Step_6.ipynb)
 - Step 7: [2-D Linear Advection](2D_equations/Step_7.ipynb)
 - Step 8: [2-D Advection](2D_equations/Step_8.ipynb)
@@ -23,7 +23,7 @@ As already mentioned in my [README.md document](https://github.com/Grafton17), m
 - Step 11: [2-D Laplace equation + relaxation method](2D_equations/Step_11.ipynb)
 - Step 12: [2-D Poisson equation](2D_equations/Step_12.ipynb)
 
-Navier-Stokes equations + advanced tips:
+Navier-Stokes equations + advanced tips (with the most cool simulations and plots of this repo):
 - Step 13: [flow in a 2-D cavity](2D_equations/Step_13.ipynb) + [images](2D_equations/Step_13_useful_files)
 - Step 14: flow in a 2-D channel
 
