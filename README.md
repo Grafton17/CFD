@@ -24,7 +24,7 @@ As already mentioned in my [README.md document](https://github.com/Grafton17), m
 - Step 12: [2-D Poisson equation](2D_equations/Step_12.ipynb)
 
 Navier-Stokes equations + advanced tips:
-- Step 13: flow in a 2-D cavity
+- Step 13: [flow in a 2-D cavity](2D_equations/Step_13.ipynb) + [images](2D_equations/Step_13_useful_files)
 - Step 14: flow in a 2-D channel
 
 # Acknowledgements
